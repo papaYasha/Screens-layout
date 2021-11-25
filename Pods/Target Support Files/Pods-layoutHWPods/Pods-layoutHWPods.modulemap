@@ -1,0 +1,6 @@
+module Pods_layoutHWPods {
+  umbrella header "Pods-layoutHWPods-umbrella.h"
+
+  export *
+  module * { export * }
+}
